@@ -16,7 +16,9 @@ __1.Petorca__
 
    
 __2.Código de aguas__
+
 -Artículos de la constitución  “frases destacadas”
+
 -Derechos en juego:
   - derecho a un medioambiente libre de contaminación
   - derecho de agua
@@ -24,6 +26,7 @@ __2.Código de aguas__
   - derecho al territorio y a los recursos naturales
   
 __3.Escasez hídrica__
+
 - gráfico comparativo cant. de agua: hoover o click que represente el antes y después: vaso de agua con cantidad de litros de antes y después. 
 
 ![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
@@ -34,6 +37,7 @@ __3.Escasez hídrica__
 ![foto](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(2).png?raw=true)
 
 __4.Producción de paltas__
+
 -cantidad de agua que utiliza (un palto promedio utiliza 66,6 litros de agua al día) 
 
 -Producción: La región de Valparaíso concentra el 65% de las plantaciones de paltos en el país.Ocupando casi 20mil hectareas antes se plantaban en 6 x 3 metros lo que permite 550 árboles por hectárea. Hoy se plantan en 2,5 x 1,25 metros lo que permite 3.200 árboles por hectárea. Mientras que cada habitante recibe 50 litros de agua al día.
@@ -46,6 +50,7 @@ __4.Producción de paltas__
 ![grp](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(3).png?raw=true)
 
 __5.El conflicto__ 
+
 *Causa del conflicto:* Uso y/o contaminación de recursos naturales
 *Inicio:* 2002
 *Actores involucrados:*
@@ -60,5 +65,6 @@ __5.El conflicto__
 
  
 __6.Nueva constitución__
+
 Modificación al código de aguas
 ![agua](https://www.ciperchile.cl/wp-content/uploads/portada.agua_.jpg)
