@@ -1,4 +1,3 @@
-# nov09
 # Conflicto socioambiental: Petorca y crisis hídrica :non-potable_water:
 ![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg)
 
@@ -8,7 +7,7 @@ __1.Petorca__
    habitantes: en el mapa de la ubicación (china morning post)
    producción: texto + fotos
    contexto: texto + fotos mapa de ríos antes y después
-   ![mapa](https://.jpg)
+   ![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
    ![petorca](https://.jpg)
 
 
