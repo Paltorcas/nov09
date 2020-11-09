@@ -7,8 +7,9 @@ __1.Petorca__
    habitantes: en el mapa de la ubicación (china morning post)
    producción: texto + fotos
    contexto: texto + fotos mapa de ríos antes y después
-   ![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
-   ![petorca](https://.jpg)
+   
+   ![mapa chile](https://github.com/Paltorcas/nov09/blob/main/unnamed.png)
+   ![petorca](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200.png?raw=true)
 
 
    
@@ -22,7 +23,9 @@ __2.Código de aguas__
   
 __3.Escasez hídrica__
 - gráfico comparativo cant. de agua: hoover o click que represente el antes y después: vaso de agua con cantidad de litros de antes y después. 
+![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
 - fotos
+![foto](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(2).png?raw=true)
 
 __4.Producción de paltas__
 -cantidad de agua que utiliza (un palto promedio utiliza 66,6 litros de agua al día) 
@@ -32,6 +35,8 @@ __4.Producción de paltas__
 -tipos de paltas que se producen
 -exportaciones
 + Gráficos comparativos uso de agua: gráficos con paltas y vasos de agua
+![vaso](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(4).png?raw=true)
+![grp](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(3).png?raw=true)
 
 __5.El conflicto__ 
 *Causa del conflicto:* Uso y/o contaminación de recursos naturales
