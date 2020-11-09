@@ -3,6 +3,7 @@
 
 ### Estructura
 __1.Petorca__
+
    donde es:  mapa de Chile que la hacer hoover se acerca
    habitantes: en el mapa de la ubicación (china morning post)
    producción: texto + fotos
