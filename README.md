@@ -1,4 +1,5 @@
 # Conflicto socioambiental: Petorca y crisis hídrica :non-potable_water:
+## El impacto socio-ambiental de la industria de paltas en la provincia de Petorca
 ![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg)
 
 ### Estructura
