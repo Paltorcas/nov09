@@ -27,6 +27,7 @@ __3.Escasez hídrica__
 
 ![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
 
+[declaración zona de escasez](https://dga.mop.gob.cl/administracionrecursoshidricos/decretosZonasEscasez/Documents/DTR_81_2020_%20MOP.pdf)
 - fotos
 
 ![foto](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(2).png?raw=true)
