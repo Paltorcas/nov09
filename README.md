@@ -61,6 +61,7 @@ __5.El conflicto__
   - Grupo difamadores
 *Peticiones:*
 *manifestaciones/intervenciones*
+![fto](http://modatima.cl/wp-content/uploads/2018/08/Modatima-foto_10-300x225.jpg)
 *tablero de noticias + videos (links)*
 
  
