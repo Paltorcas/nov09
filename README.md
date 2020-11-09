@@ -1,5 +1,5 @@
 # Conflicto socioambiental: Petorca y crisis hídrica :non-potable_water:
-![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg){:height="250px"}.
+![paltas](https://www.eldesconcierto.cl/wp-content/uploads/2019/08/foto-portada-1024x683.jpg){:height="36px" width="36px"}
 
 ### Estructura
 __1.Petorca__
