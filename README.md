@@ -1,4 +1,4 @@
-# Corrección #2 Infografía digital: Sequía y el negocio del agua en Petorca. :non-potable_water:
+# Corrección #2: Sequía y el negocio del agua en Petorca. :non-potable_water:
 
 ## ESTRUCTURA
 
