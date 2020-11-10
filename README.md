@@ -12,7 +12,7 @@
 
 ## Maqueta Infografia
 
-![petorca](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200.png?raw=true)
+![maqueta](https://github.com/Paltorcas/nov09/blob/gh-pages/cambiar.png?raw=true)
 
 ## Información para Infografía
 ### __1.Petorca__
