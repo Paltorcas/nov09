@@ -11,11 +11,11 @@ Cambios a considerar para la Nueva constitución. ilustración constitución y p
 Cierre - Otras especies nativas afectadas.
 
 
-## MAQUETA INFOGRAFIA 
+## Maqueta Infografia
 
 ![petorca](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200.png?raw=true)
 
-## Información para "Estructura"
+## Información para Infografía
 ### __1.Petorca__
 
    donde es:  mapa de Chile que la hacer hoover se acerca
@@ -36,14 +36,8 @@ Cierre - Otras especies nativas afectadas.
   
 ### __3.Escasez hídrica__
 
- 
-
-![mapa](https://raw.githubusercontent.com/Paltorcas/nov09/main/pasted%20image%200%20(1).png)
-
 [declaración zona de escasez](https://dga.mop.gob.cl/administracionrecursoshidricos/decretosZonasEscasez/Documents/DTR_81_2020_%20MOP.pdf)
 - fotos
-
-![foto](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(2).png?raw=true)
 
 ### __4.Producción de paltas__
 
@@ -54,9 +48,6 @@ Cierre - Otras especies nativas afectadas.
 -tipos de paltas que se producen
 -exportaciones
 + Gráficos comparativos uso de agua: gráficos con paltas y vasos de agua
-
-![vaso](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(4).png?raw=true)
-![grp](https://github.com/Paltorcas/nov09/blob/main/pasted%20image%200%20(3).png?raw=true)
 
 ### __5.El conflicto__ 
 
@@ -71,8 +62,6 @@ Cierre - Otras especies nativas afectadas.
 *Peticiones:*
 *manifestaciones/intervenciones*
 
-![foto](http://modatima.cl/wp-content/uploads/2018/08/Modatima-foto_10-300x225.jpg)
-
 *tablero de noticias + videos (links)*
 
  
@@ -80,4 +69,3 @@ Cierre - Otras especies nativas afectadas.
 
 Modificación al código de aguas
 
-![agua](https://www.ciperchile.cl/wp-content/uploads/portada.agua_.jpg)
